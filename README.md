@@ -51,7 +51,7 @@ Response:
 Symmetric encryption uses the same key for encryption and decryption...
 
 📌 Add Screenshot:
-<img src="./screenshots/followup_output.png" width="700"/>
+![Follow-up Output](followup_output.png)
 
 ---
 
