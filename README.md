@@ -38,7 +38,7 @@ Generating Study Plan...
 ...
 
 📌 Add Screenshot:
-<img src="./screenshots/initial_output.png" width="700"/>
+![Initial Output](initial_output.png)
 
 ---
 
